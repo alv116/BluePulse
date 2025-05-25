@@ -24,4 +24,4 @@ BluePulse acts as a “seismograph” for Bluetooth connections, allowing you to
 # Important Zone
 
 For using this code you may purchase our product or make a "copy" of it
-(We don't asecure that it'll work using our code)
+*(We don't asecure that it'll work using our code)*
