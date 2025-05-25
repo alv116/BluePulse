@@ -1,5 +1,4 @@
 # BluePulse
-BluePulse
 🔷 BluePulse – Bluetooth Signal Drop Detector and Real-Time Analysis BluePulse is an advanced monitoring tool that detects unexpected drops in Bluetooth signal strength (RSSI) and allows you to visualize connection behavior in real time through a seismograph-like graph. It is ideal for developers, wireless network technicians, connected device manufacturers, and any environment where Bluetooth stability is critical.
 
 🧠 What does BluePulse do? It continuously monitors link quality with a paired Bluetooth device.
@@ -24,4 +23,5 @@ BluePulse acts as a “seismograph” for Bluetooth connections, allowing you to
 
 # Important Zone
 
-For using this code you may purchase our product or Donate
+For using this code you may purchase our product or make a "copy" of it
+(We don't asecure that it'll work using our code)
